@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\bin\Debug\TitanMuInstaller.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\bin\Debug\TitanMuInstaller.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.pdb
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.exe
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.pdb
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\bin\Debug\TitanMuInstaller.exe
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\bin\Debug\TitanMuInstaller.pdb
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\obj\Debug\ResolveAssemblyReference.cache
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.Form1.resources
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.Properties.Resources.resources
+E:\MuFilesSCF\SRC Control 3\scfgs\TitanMuInstaller\TitanMuInstaller\obj\Debug\TitanMuInstaller.csproj.GenerateResource.Cache
